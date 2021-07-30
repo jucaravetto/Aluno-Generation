@@ -16,6 +16,7 @@ programa
 		DiasTotais = (anos*365) + (meses*30) + dias
 
 		escreva("\n O seu total de dias de vida é: ", DiasTotais)
+		escreva("\n Continue com muita saúde!")
 
 		
 		
@@ -26,7 +27,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 131; 
+ * @POSICAO-CURSOR = 430; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
