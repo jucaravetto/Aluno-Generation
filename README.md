@@ -1,2 +1,2 @@
-# Aula-da-generation
+# Portugol Exercicios e exemplos
 Aulas desenvolvidas no curso GenerationBrasil
